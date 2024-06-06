@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: 'FCTahoMai';
+    src: local('FCTahoMai'), url(./fonts/FCTahoMai-Regular.ttf) format('truetype');
+  }
+  
+  @font-face {
+      font-family: 'FCTahoMai';
+      font-weight: 900;
+      src: local('FCTahoMai'), url(./fonts/FCTahoMai-Bold.ttf) format('truetype');
+  }
+  
